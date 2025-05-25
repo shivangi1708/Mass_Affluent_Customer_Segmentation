@@ -14,12 +14,13 @@ The goal of this project is to identify and analyze customer segments—particul
 
 - **Python (Pandas)** – Data cleaning, feature engineering
 - **Power BI** – Interactive dashboard creation
+- **K Means Algorithm (ML)** – Groups customer into different clusters
 - **DAX** – Custom KPIs and dynamic calculations
 - **Power Query** – Data modeling and transformation
 
 ---
 
-## 🧹 Step 1–4: Data Preparation (Python)
+## 🧹 Step 1–4: Data Preparation and Clustering (Python)
 
 - Cleaned ~3.9K customer records (e.g., missing values, date formats, type casting)
 - Filtered out deceased customers
