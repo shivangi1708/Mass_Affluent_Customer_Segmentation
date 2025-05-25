@@ -20,7 +20,7 @@ The goal of this project is to identify and analyze customer segments—particul
 
 ---
 
-## 🧹 Step 1–4: Data Preparation and Clustering (Python)
+## Data Preparation and Clustering (Python)
 
 - Cleaned ~3.9K customer records (e.g., missing values, date formats, type casting)
 - Filtered out deceased customers
@@ -31,7 +31,7 @@ The goal of this project is to identify and analyze customer segments—particul
 
 ---
 
-## 📊 Step 5–7: Dashboard Creation (Power BI)
+## Dashboard Creation (Power BI)
 
 ### 📄 **Page 1: Customer Segment Overview**
 - Pie chart: % of customers by Cluster
