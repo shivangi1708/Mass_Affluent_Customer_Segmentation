@@ -22,7 +22,7 @@ The goal of this project is to identify and analyze customer segments—particul
 
 ## Data Preparation and Clustering (Python)
 
-- Cleaned ~3.9K customer records (e.g., missing values, date formats, type casting)
+- Cleaned customer records (e.g., missing values, date formats, type casting)
 - Filtered out deceased customers
 - Engineered features:
   - `Is_Mass_Affluent_Custom` flag
